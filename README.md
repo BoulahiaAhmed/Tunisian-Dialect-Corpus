@@ -1,6 +1,4 @@
-# Tunisian-Dialect-Corpus
-
-# Tunisian Dialect Corpus.
+# Tunisian Dialect Corpus
 
 About 20k comments manually annotated to positive and negativ. This corpus is collected from YouTube and Facebook public pages from June 2020 to October 2020.<br>
 
